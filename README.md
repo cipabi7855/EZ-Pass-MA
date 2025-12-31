@@ -20,7 +20,9 @@ GitHub collaboration workflow
 Author
 
 *Name: 
+
 *Email: 
+
 *Website: 
 
 Author Background
