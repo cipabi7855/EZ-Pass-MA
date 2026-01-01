@@ -19,11 +19,11 @@ GitHub collaboration workflow
 
 Author
 
-*Name: 
+*Name: cipabi
 
-*Email: 
+*Email: cipabi7855@icousd.com
 
-*Website: 
+*Website: [EZ Pass MA](https://www.ma-ezpass.com)
 
 Author Background
 
